@@ -12,5 +12,6 @@ continues to grow. Many companies are also shifting towards hiring software engi
 ## Work demonstration: 
 
 <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="256"/>
-<img src="https://eitpl.in/assets/img/service/mob-dev.gif" width="256"/>
+
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif" width="256"/>
 
